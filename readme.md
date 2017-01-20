@@ -1,0 +1,1 @@
+contents of [doraemonyu.github.io](http://doraemonyu.github.io)
