@@ -12,17 +12,16 @@
 
         <ul class="site-footer-links no-style-list">
           <li class="no-mobile">&copy; 2005 - {{ site.time | date: '%Y' }} <span>幻蓝工作室</span> </li>
-          <li><a href="https://yuyangzhou.name/">yuyangzhou.name</a></li>
+          <li><a target="_blank" href="https://yuyangzhou.name/">yuyangzhou.name</a></li>
         </ul>
       </div>
     </footer>
     <script src="/assets/vendor/anchor-js/anchor.min.js"></script>
     <script src="/assets/vendor/jquery/dist/jquery.min.js"></script>
     <script>anchors.add('.org-type h4');</script>
-    {% if page.url == "/community/" %}
-      <script src="/assets/js/community.js"></script>
+    {% if page.url == "/About/" %}
+      <!-- -->
     {% elsif page.url == "/" %}
-      <script src="/assets/js/home.js"></script>
       <script src="/assets/js/TagCloud.js"></script>      
     {% endif %}
   </body>
