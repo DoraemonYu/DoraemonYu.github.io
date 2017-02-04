@@ -24,7 +24,7 @@ description: "Introduce some of Repositorys on Github."
 			<span class="mega-octicon octicon-code"></span>
 			<h3>JS-PageVisibilityEvent</h3>
 		  </a>
-		  <p>It provide the event deal with page hidden/deactive or visible/active, written by PURE JS, Cross-browser Support..</p>
+		  <p>It provide the event deal with page hidden/deactive or visible/active, written by PURE JS, Cross-browser Support.</p>
 		</div>
 	  </div>
 

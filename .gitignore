@@ -13,3 +13,4 @@ assets/vendor/bootstrap-sass/assets/javascripts/
 .env
 tmp/
 .bat
+.jekyll-metadata

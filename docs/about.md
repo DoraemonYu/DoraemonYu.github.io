@@ -12,7 +12,7 @@ description: "Informations about Me and the Studio."
 
 o(∩_∩)o Hello. My name is Doraemon Yu. 
 
-I am from China, a software engineer with {{ site.time | date: '%Y' | minus: 2005 }} years development experience and {{ (site.time | date: '%Y') | minus: 2011 }} years work experience. 
+I am from China, a software engineer with {{ site.time | date: '%Y' | minus: 2005 }} years development experience and {{ site.time | date: '%Y' | minus: 2011 }} years work experience. 
 
 In my spare time, in addition to development, I like to read English story books, flowers, traveling and scientific research. By the way, as my enlish name, I am a fan of Doraemon ~\\(≧▽≦)/~
 </div>
