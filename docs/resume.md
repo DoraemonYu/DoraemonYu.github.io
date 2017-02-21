@@ -24,7 +24,7 @@ If you think I am suitable, contact me please.*
 		<div class="col-md-6 feature">      
 		  <span class="mega-octicon octicon-person"></span>
 		  <h3>Basic Personal Information</h3>
-		  <p>Male, {{ site.time | date: '%Y' | minus: 1989 }} years old, married.</p>
+		  <p>Male, INFJ, {{ site.time | date: '%Y' | minus: 1989 }} years old, married.</p>
 		</div>
 		<div class="col-md-6 feature">      
 		  <span class="mega-octicon octicon-heart"></span>
