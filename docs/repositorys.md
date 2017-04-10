@@ -11,21 +11,33 @@ description: "Introduce some of Repositorys on Github."
 
 <div class="mini-section">
 	<div class="features">
+  
 	  <div class="row">
-		<div class="col-md-6 feature">      
+		 <div class="col-md-6 feature">      
 		  <a href="https://doraemonyu.github.io/MicroDBHelper" target="_blank">
 			<span class="mega-octicon octicon-database"></span>
 			<h3>MicroBDHelper</h3>
 		  </a>
 		  <p>A friendly interface library to use SQLHelper.With friendly interface design for developers,support for asynchronous programming.</p>
-		</div>
-		<div class="col-md-6 feature">      
+		 </div>
+		 <div class="col-md-6 feature">      
+		  <a href="https://doraemonyu.github.io/MicroDBHelper-ExpansionPack/" target="_blank">
+			<span class="mega-octicon octicon-package"></span>
+			<h3>MicroDBHelper-ExpansionPack</h3>
+		  </a>
+		  <p>Optional related features (such as Entity Conversion, Paging Query , etc.) which is useful when using MicroDBHelper in the development.</p>
+		 </div>
+	  </div>
+    <div class="row">
+		 <div class="col-md-6 feature">      
 		  <a href="https://github.com/DoraemonYu/JS-PageVisibilityEvent" target="_blank">
 			<span class="mega-octicon octicon-code"></span>
 			<h3>JS-PageVisibilityEvent</h3>
 		  </a>
 		  <p>It provide the event deal with page hidden/deactive or visible/active, written by PURE JS, Cross-browser Support.</p>
-		</div>
+		 </div>
+     <div class="col-md-6 feature">   
+     </div>
 	  </div>
 
 	</div>
