@@ -42,8 +42,8 @@ If you think I am suitable, contact me please.*
 		  <ul class="p-l-20">
 			<li>Data structures, algorithms and security;</li>
 			<li>Data and communication, encryption protocols;</li>	  
-			<li>Microsoft products, dotNet solution;</li>	  
-			<li>Ubuntu platform;</li>	  
+			<li>Microsoft products solution,ex. dotNet, MsSql;</li>	  
+			<li>Achitectural style: Suitable, Simple, Evolution;</li>	  
 			<li>Security, smart home, other future industrys;</li>	  
 	      </ul>
 		</div>
@@ -66,6 +66,8 @@ If you think I am suitable, contact me please.*
 		  <ul class="p-l-20">
 			<li>{{ site.time | date: '%Y' | minus: 2005 }} years development experience, since from 2005.08;</li>
 			<li>{{ site.time | date: '%Y' | minus: 2011 }} years work experience, since from 2011.07;</li>	    
+			<li>1.5 years architectural design experience;</li>	    
+			<li>1.5 years team management experience;</li>	    
 	      </ul>
 		</div>
 		<div class="col-md-6 feature">      
@@ -83,7 +85,7 @@ If you think I am suitable, contact me please.*
 
 
 ## Full version of the resume
-*About detailed skills, experiences and my contact information. Please note it is written in simplified Chinese.*  
+*Include detailed skill list, experiences and my contact information. Please note it is written in simplified Chinese.*  
 [job.yuyangzhou.name](http://job.yuyangzhou.name){:target="_blank" rel="nofollow" title="余阳舟的电子简历" }
 
 
