@@ -15,7 +15,7 @@ o(∩_∩)o Hello. My name is Doraemon Yu.
 I come from China, a senior software engineer with {{ site.time | date: '%Y' | minus: 2005 }} years development experience and {{ site.time | date: '%Y' | minus: 2011 }} years work experience.  
 Simultaneously, I am MCSD (certified by Microsoft) and System-Architect (certified by government agency).  
 
-In my spare time, in addition to development, I like to read English story books, flowers, traveling and scientific research. By the way, as my enlish name, I am a fan of Doraemon ~\\(≧▽≦)/~
+In my spare time, except development, I like to read English story books, flowers, traveling and scientific research. By the way, as my enlish name, I am a fan of Doraemon ~\\(≧▽≦)/~
 </div>
 
 

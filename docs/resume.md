@@ -25,11 +25,13 @@ If you think I am suitable, contact me please.*
 		  <span class="mega-octicon octicon-person"></span>
 		  <h3>Basic Personal Information</h3>
 		  <p>Male, INFJ personality, {{ site.time | date: '%Y' | minus: 1989 }} years old, married.</p>
+		  <p>MCSD, certified by Microsoft;</p>
+		  <p>System-Architect, certified by government agency;</p>
 		</div>
 		<div class="col-md-6 feature">      
 		  <span class="mega-octicon octicon-heart"></span>
 		  <h3>Objective Positions and Work Place</h3>
-		  <p>System Architect, Senior Software Engineer.</p>
+		  <p>System Architect, Senior Software Engineer, Technical Manager.</p>
 		  <p>In <strong>Guangzhou</strong> or <strong>Foshan</strong> City, Guangdong province, China.</p>
 		</div>
 	  </div>
@@ -44,7 +46,7 @@ If you think I am suitable, contact me please.*
 			<li>Data and communication, encryption protocols;</li>	  
 			<li>Microsoft products solution,ex. dotNet, MsSql, Azure;</li>	  
 			<li>Achitectural style: Suitable, Simple, Evolution;</li>	  
-			<li>Security, smart home, other future industrys;</li>	  
+			<li>Software industry, smart home/ robot industry, etc;</li>
 	      </ul>
 		</div>
 		<div class="col-md-6 feature">      
@@ -52,10 +54,10 @@ If you think I am suitable, contact me please.*
 		  <h3>Excellent development capability</h3>
 		  <ul class="p-l-20">
 			<li>Skilled master thousands of <strong>win32 api</strong>;</li>
-			<li>Familiar with network protocols;</li>	  
+			<li>Familiar with network/ communication protocols;</li>	  
 			<li>Code written <strong>beautiful</strong>, able to write specifications and clear technical documentation;</li>	  
 			<li>Extensive range of study, strong learning ability;</li>	  
-			<li>Master agile development;</li>	  
+			<li>Proficiency in agile development;</li>	  
 	      </ul>
 		</div>
 	  </div>
@@ -87,7 +89,7 @@ If you think I am suitable, contact me please.*
 
 ## Full version of the resume
 *Include detailed skill list, experiences and my contact information. Please note it is written in simplified Chinese.*  
-[job.yuyangzhou.name](http://job.yuyangzhou.name){:target="_blank" rel="nofollow" title="余阳舟的电子简历" }
+[https://job.yuyangzhou.name](https://job.yuyangzhou.name){:target="_blank" rel="nofollow" title="余阳舟的电子简历" }
 
 
 {% else %}
