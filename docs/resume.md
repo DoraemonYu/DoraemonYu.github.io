@@ -5,7 +5,7 @@ permalink: /Resume/
 description: "DoraemonYu's resume"
 ---
 
-{% if site.show_resume == false %}
+{% if site.show_resume == true %}
 
 <div class="col-md-12" markdown="1">
 o(∩_∩)o *Hello. Nice to meet you here.  
