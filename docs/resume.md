@@ -5,11 +5,11 @@ permalink: /Resume/
 description: "DoraemonYu's resume"
 ---
 
-{% if site.show_resume == true %}
+{% if site.show_resume == false %}
 
 <div class="col-md-12" markdown="1">
 o(∩_∩)o *Hello. Nice to meet you here.  
-When you see this page, which usually is hidden, become public now, it means that I'm hunting a job.  
+When you see this page, which usually is hidden, become public now, it means that I'm hunting new job.  
 If you think I am suitable, contact me please.*
 
 
@@ -24,7 +24,7 @@ If you think I am suitable, contact me please.*
 		<div class="col-md-6 feature">      
 		  <span class="mega-octicon octicon-person"></span>
 		  <h3>Basic Personal Information</h3>
-		  <p>Male, INFJ, {{ site.time | date: '%Y' | minus: 1989 }} years old, married.</p>
+		  <p>Male, INFJ personality, {{ site.time | date: '%Y' | minus: 1989 }} years old, married.</p>
 		</div>
 		<div class="col-md-6 feature">      
 		  <span class="mega-octicon octicon-heart"></span>
@@ -42,7 +42,7 @@ If you think I am suitable, contact me please.*
 		  <ul class="p-l-20">
 			<li>Data structures, algorithms and security;</li>
 			<li>Data and communication, encryption protocols;</li>	  
-			<li>Microsoft products solution,ex. dotNet, MsSql;</li>	  
+			<li>Microsoft products solution,ex. dotNet, MsSql, Azure;</li>	  
 			<li>Achitectural style: Suitable, Simple, Evolution;</li>	  
 			<li>Security, smart home, other future industrys;</li>	  
 	      </ul>
@@ -64,8 +64,9 @@ If you think I am suitable, contact me please.*
 		  <span class="mega-octicon octicon-graph"></span>
 		  <h3>Experience</h3>
 		  <ul class="p-l-20">
+		  	<li>Start using computer since from 1996, when I was 7 years old;</li>	   
 			<li>{{ site.time | date: '%Y' | minus: 2005 }} years development experience, since from 2005.08;</li>
-			<li>{{ site.time | date: '%Y' | minus: 2011 }} years work experience, since from 2011.07;</li>	    
+			<li>{{ site.time | date: '%Y' | minus: 2011 }} years work experience, since from 2010.12;</li>	    
 			<li>1.5 years architectural design experience;</li>	    
 			<li>1.5 years team management experience;</li>	    
 	      </ul>
