@@ -5,7 +5,7 @@ permalink: "/stories/:title"
 url: https://doraemonyu.github.com
 relative_permalinks: false
 analytics_account: "UA-4907987-4"
-show_resume: false
+show_resume: true
 
 # build settings
 exclude: ["script", "vendor", "bower.json", "Gemfile", "Gemfile.lock", "Rakefile", "readme.md", "package.json", "start.bat"]

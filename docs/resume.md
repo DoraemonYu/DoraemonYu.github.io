@@ -89,7 +89,7 @@ If you think I am suitable, contact me please.*
 
 ## Full version of the resume
 *Include detailed skill list, experiences and my contact information. Please note it is written in simplified Chinese.*  
-[https://job.yuyangzhou.name](https://job.yuyangzhou.name){:target="_blank" rel="nofollow" title="余阳舟的电子简历" }
+[https://job.doraemon-yu.site](https://job.doraemon-yu.site){:target="_blank" rel="nofollow" title="DoraemonYu's resume" }
 
 
 {% else %}
