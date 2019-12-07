@@ -8,6 +8,9 @@ description: "DoraemonYu's resume"
 {% if site.show_resume == true %}
 
 <div class="col-md-12" markdown="1">
+
+![my logo](/assets/img/me3.jpg)
+
 o(∩_∩)o *Hello. Nice to meet you here.  
 When you see this page, which usually is hidden, become public now, it means that I'm hunting new job.  
 If you think I am suitable, contact me please.*
