@@ -12,8 +12,8 @@ description: "DoraemonYu's resume"
 ![my logo](/assets/img/me3.jpg)
 
 o(∩_∩)o *Hello. Nice to meet you here.  
-When you see this page, which usually is hidden, become public now, it means that I'm hunting new job.  
-If you think I am suitable, contact me please.*
+When you see this page, which usually is hidden, become public now, it means that I'm hunting a new job.  
+If you think I am suitable for your company, contact me please.*
 
 
 <div class="col-md-12" >&nbsp;</div>
@@ -58,7 +58,7 @@ If you think I am suitable, contact me please.*
 		  <ul class="p-l-20">
 			<li>Skilled master thousands of <strong>win32 api</strong>;</li>
 			<li>Familiar with network/ communication protocols;</li>	  
-			<li>Code written <strong>beautiful</strong>, able to write specifications and clear technical documentation;</li>	  
+			<li>]<strong>Beautiful</strong> code writting, able to write specifications and clear technical documentation;</li>	  
 			<li>Extensive range of study, strong learning ability;</li>	  
 			<li>Proficiency in agile development;</li>	  
 	      </ul>
@@ -71,7 +71,7 @@ If you think I am suitable, contact me please.*
 		  <ul class="p-l-20">
 		  	<li>Start using computer since from 1998, when I was 9 years old;</li>	   
 			<li>{{ site.time | date: '%Y' | minus: 2005 }} years development experience, since from 2005.08;</li>
-			<li>{{ site.time | date: '%Y' | minus: 2011 }} years work experience, since from 2010.12;</li>	    
+			<li>{{ site.time | date: '%Y' | minus: 2010 }} years work experience, since from 2010.12;</li>	    
 			<li>1.5 years architectural design experience;</li>	    
 			<li>1.5 years team management experience;</li>	    
 	      </ul>
@@ -90,7 +90,7 @@ If you think I am suitable, contact me please.*
 </div>
 
 
-## Full version of the resume
+## Complete Resume
 *Include detailed skill list, experiences and my contact information. Please note it is written in simplified Chinese.*  
 [https://job.doraemon-yu.site](https://job.doraemon-yu.site){:target="_blank" rel="nofollow" title="DoraemonYu's resume" }
 
