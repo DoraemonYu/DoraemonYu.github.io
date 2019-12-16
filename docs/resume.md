@@ -58,7 +58,7 @@ If you think I am suitable for your company, contact me please.*
 		  <ul class="p-l-20">
 			<li>Skilled master thousands of <strong>win32 api</strong>;</li>
 			<li>Familiar with network/ communication protocols;</li>	  
-			<li>]<strong>Beautiful</strong> code writting, able to write specifications and clear technical documentation;</li>	  
+			<li><strong>Beautiful</strong> code writting, able to write specifications and clear technical documentation;</li>	  
 			<li>Extensive range of study, strong learning ability;</li>	  
 			<li>Proficiency in agile development;</li>	  
 	      </ul>
