@@ -1,13 +1,13 @@
 ---
 layout: support-page
-title: "Repositorys on Github"
-permalink: /Repositorys/
-description: "Introduce some of Repositorys on Github."
+title: "Repositories on Github"
+permalink: /Repositories/
+description: "Introduce some repositories on Github."
 ---
 
 <div class="col-md-12" markdown="1">
-## Repositorys from me
-*These repositorys are created and maintained by me.*
+## repositories from me
+*These repositories are created and maintained by me.*
 
 <div class="mini-section">
 	<div class="features">
@@ -48,8 +48,8 @@ description: "Introduce some of Repositorys on Github."
 
 
 <div class="col-md-12" markdown="1">
-## Repositorys I am concerned about
-*These repositorys are that I am using, paying close attention or make contributions to.*
+## repositories I am concerned about
+*These repositories are that I am using, paying close attention or make contributions to.*
 
 <div class="mini-section">
 	<div class="features">
