@@ -57,7 +57,7 @@ If you think I am suitable for your company, contact me please.*
 		  <h3>Excellent development capability</h3>
 		  <ul class="p-l-20">
 			<li><strong>Beautiful</strong> code writting, able to write specifications and clear technical documentation;</li>	  
-			<li>Proficiency in <strong>agile<strong> (esp. Scrum);</li>	  
+			<li>Proficiency in <strong>agile</strong> (esp. Scrum);</li>	  
 			<li>Familiar with network/ communication protocols;</li>	  
 			<li>Skilled master thousands of <strong>win32 api</strong>;</li>
 			<li>Extensive range of study, strong learning ability;</li>	  
