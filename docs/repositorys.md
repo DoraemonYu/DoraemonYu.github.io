@@ -18,14 +18,14 @@ description: "Introduce some repositories on Github."
 			<span class="mega-octicon octicon-database"></span>
 			<h3>MicroBDHelper</h3>
 		  </a>
-		  <p>A friendly interface library to use SQLHelper.With friendly interface design for developers,support for asynchronous programming.</p>
+		  <p>A friendly interface library to use SQLHelper. With friendly interface design for developers,support for asynchronous programming. Now it has over 5,000 downloads at Nuget.</p>
 		 </div>
 		 <div class="col-md-6 feature">      
 		  <a href="https://doraemonyu.github.io/MicroDBHelper-ExpansionPack/" target="_blank">
 			<span class="mega-octicon octicon-package"></span>
 			<h3>MicroDBHelper-ExpansionPack</h3>
 		  </a>
-		  <p>Optional related features (such as Entity Conversion, Paging Query , etc.) which is useful when using MicroDBHelper in the development.</p>
+		  <p>Optional related features (such as Entity Conversion, Paging Query, Assembly Decoupling Support, etc.) Which is useful when using MicroDBHelper in your development.</p>
 		 </div>
 	  </div>
     <div class="row">
@@ -34,7 +34,7 @@ description: "Introduce some repositories on Github."
 			<span class="mega-octicon octicon-code"></span>
 			<h3>JS-PageVisibilityEvent</h3>
 		  </a>
-		  <p>It provide the event deal with page hidden/deactive or visible/active, written by PURE JS, Cross-browser Support.</p>
+		  <p>It provide the event deal with page hidden/deactive or visible/active, written by PURE JS, Lightweight and Cross-browser Support.</p>
 		 </div>
      <div class="col-md-6 feature">   
      </div>
@@ -57,16 +57,16 @@ description: "Introduce some repositories on Github."
 		<div class="col-md-6 feature">      
 		  <a href="https://github.com/golang/mobile" target="_blank">
 			<span class="mega-octicon octicon-beaker"></span>
-			<h3>Go on Mobile</h3>
+			<h3>Go Mobile</h3>
 		  </a>
-		  <p>The Go mobile repository holds packages and build tools for using Go on mobile platforms.</p>
+		  <p>The Go mobile repository holds packages and build tools for using Golang on mobile platforms.</p>
 		</div>
 		<div class="col-md-6 feature">      
 		  <a href="https://github.com/lxn/walk" target="_blank">
 			<span class="mega-octicon octicon-heart"></span>
 			<h3>Walk</h3>
 		  </a>
-		  <p>A Windows GUI toolkit for the Go Programming Language.Its primarily useful for Desktop GUI development, but there is some more stuff.</p>
+		  <p>A Windows GUI toolkit for the Golang. Its primarily useful for Desktop GUI development, but there is some more stuff.</p>
 		</div>
 	  </div>
 
@@ -93,14 +93,14 @@ description: "Introduce some repositories on Github."
 			<span class="mega-octicon octicon-code"></span>
 			<h3>Simple Post Variable Parameter</h3>
 		  </a>
-		  <p>Make asp.net webapi support multiple body POST params via JSON and x-form-url-encoded.</p>
+		  <p>Make Asp.Net Webapi support multiple body POST params via JSON and x-form-url-encoded.</p>
 		</div>
 		<div class="col-md-6 feature">      
 		  <a href="https://github.com/StackExchange/NetGain" target="_blank">
 			<span class="mega-octicon octicon-rocket"></span>
 			<h3>StackExchange.NetGain</h3>
 		  </a>
-		  <p>A high performance websocket server library powering Stack Overflow.Which is complianced with RFC6455.</p>
+		  <p>A high performance websocket server library powering Stack Overflow. Which is complianced with RFC6455.</p>
 		</div>
 	  </div>
 
