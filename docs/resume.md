@@ -90,10 +90,10 @@ If you think I am suitable for your company, contact me please.*
 		  <span class="mega-octicon octicon-device-camera"></span>
 		  <h3>Review</h3>
 		  <ul class="p-l-20">
-			<li>Worked in entrepreneurial companies, foreign group, Fortune 500 enterprise, and then formed a good habit of thinking in these diversity;<br />Now could fully combined with the actual situation, for the corporate and team,to output the good solutions with strong landing ability. Including workflow, team building, system design, etc.</li>	   
-			<li>Experienced personally as the front-line developer in the monomer systems, layered systems, distributed systems, front-line development of micro services, etc. And were familiar with specific application scenarios with there different style, and have the relevant infrastructure design capabilities as well.</li>
-			<li>Own clear communication skills and technical skills , in order to play a bridging role in the team. Then could coordinate the different members and different technology stacks, to make everyone to play their good ability.</li>	    
-			<li>Two principles I always to follow either in work and life are cost-effective and win-win.</li>
+			<li>Worked in <strong>entrepreneurial companies, foreign group, Fortune 500 enterprise</strong>, and then formed a good habit of thinking in these <strong>diversity</strong>;<br />Now could fully combined with the actual situation, for the corporate and team,to output the good solutions with strong landing ability. Including workflow, team building, system design, etc.</li>	   
+			<li>Experienced personally as the <strong>front-line developer</strong> in the monomer systems, layered systems, distributed systems, front-line development of micro services, etc. And were familiar with specific application scenarios with there different style, and have the relevant infrastructure design capabilities as well.</li>
+			<li>Own <strong>clear communication skills</strong> and technical skills , in order to play a bridging role in the team. Then could coordinate the different members and different technology stacks, to make everyone to play their good ability.</li>	    
+			<li>Two principles I always to follow either in work and life are <strong>cost-effective</strong> and <strong>win-win</strong>.</li>
 	      </ul>
 		</div>
 	  </div>	  
