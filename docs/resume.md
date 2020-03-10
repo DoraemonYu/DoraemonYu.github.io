@@ -45,11 +45,11 @@ If you think I am suitable for your company, contact me please.*
 		  <span class="mega-octicon octicon-flame"></span>
 		  <h3>Areas of most concern</h3>	
 		  <ul class="p-l-20">
-			<li>.Net, .Net Core, MSSql, Azure;</li>	  
-			<li>Windows Dev., Ubuntu Dev., Web Dev., etc;</li>	 			
+			<li>.Net & .Net Core, MSSql, NoSQL, Azure, etc.;</li>	  
+			<li>Windows Dev., Linux Dev., Web Dev., etc.;</li>	 			
 			<li>Data structures, algorithms and security;</li>
 			<li>Achitectural style: Suitable, Simple, Evolution;</li>	  
-			<li>Industry: Software, Smart home, Robots, etc;</li>
+			<li>Industry: Software, Smart home, Robots, etc.;</li>
 	      </ul>
 		</div>
 		<div class="col-md-6 feature">      
