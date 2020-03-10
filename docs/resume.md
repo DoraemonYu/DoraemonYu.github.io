@@ -106,7 +106,7 @@ If you think I am suitable for your company, contact me please.*
 
 
 ## Complete Resume
-*Include detailed skill list, experiences and my contact information. Please note it is written in simplified Chinese.*  
+*This include detailed skills list, working experiences and my contact informations, etc.*  
 [https://job.doraemon-yu.site](https://job.doraemon-yu.site){:target="_blank" rel="nofollow" title="DoraemonYu's resume" }
 
 
