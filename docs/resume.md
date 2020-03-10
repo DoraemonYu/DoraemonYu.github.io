@@ -12,8 +12,8 @@ description: "DoraemonYu's resume"
 ![my logo](/assets/img/me3.jpg)
 
 o(∩_∩)o *Hello. Nice to meet you here.  
-When you see this page, which usually is hidden, become public now, it means that I'm hunting a new job.  
-If you think I am suitable for your company, contact me please.*
+When you see this page, which usually is hidden, change to public now, it means that I am hunting a new job.  
+If you think I am suitable for becoming your colleague, invite me to an interview please.*
 
 
 <div class="col-md-12" >&nbsp;</div>
