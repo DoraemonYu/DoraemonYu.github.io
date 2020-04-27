@@ -28,7 +28,7 @@ If you think I am suitable for becoming your colleague, invite me to an intervie
 		  <span class="mega-octicon octicon-person"></span>
 		  <h3>Basic Personal Information</h3>
 		  <p>Male, INFJ personality, {{ site.time | date: '%Y' | minus: 1989 }} years old, married.</p>
-		  <p>MCSD, certified by Microsoft;</p>
+		  <p>MCSD, develop-specialist certified by Microsoft;</p>
 		  <p>System-Architect, certified by government agency;</p>
 		</div>
 		<div class="col-md-6 feature">      
@@ -73,8 +73,8 @@ If you think I am suitable for becoming your colleague, invite me to an intervie
 		  	<li>Start using computer since from 1998, when I was 9 years old;</li>	   
 			<li>{{ site.time | date: '%Y' | minus: 2005 }} years development experience, since from 2005.08;</li>
 			<li>{{ site.time | date: '%Y' | minus: 2010 }} years work experience, since from 2010.12;</li>	    
-			<li>2 years Architect experience;</li>	    
-			<li>2 years Team-Management experience;</li>	    
+			<li>3 years Architect experience;</li>	    
+			<li>2 years Team-Leader experience;</li>	    
 	      </ul>
 		</div>
 		<div class="col-md-6 feature">      
@@ -90,7 +90,7 @@ If you think I am suitable for becoming your colleague, invite me to an intervie
 		  <span class="mega-octicon octicon-device-camera"></span>
 		  <h3>Review</h3>
 		  <ul class="p-l-20">
-			<li>Worked in <strong>entrepreneurial companies, foreign group, Fortune 500 enterprise</strong>, and then formed a good habit of thinking in these <strong>diversity</strong>;<br />Now could fully combined with the actual situation, for the corporate and team,to output the good solutions with strong landing ability. Including workflow, team building, system design, etc.</li>	   
+			<li>Worked in <strong>startup Company, foreign group, Fortune 500 enterprise</strong>, and then formed a good habit of thinking in these <strong>diversity</strong>;<br />Now could fully combined with the actual situation, for the corporate and team,to output the good solutions with strong landing ability. Including workflow, team building, system design, etc.</li>	   
 			<li>Experienced personally as the <strong>front-line developer</strong> in the monomer systems, layered systems, distributed systems, front-line development of micro services, etc. And were familiar with specific application scenarios with there different style, and have the relevant infrastructure design capabilities as well.</li>
 			<li>Own <strong>clear communication skills</strong> and technical skills , in order to play a bridging role in the team. Then could coordinate the different members and different technology stacks, to make everyone to play their good ability.</li>	    
 			<li>Two principles I always to follow either in work and life are <strong>cost-effective</strong> and <strong>win-win</strong>.</li>
