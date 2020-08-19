@@ -19,6 +19,9 @@
     this.aA = null;
     this.oDiv = null;
 
+    /*  <=0 means finally will stop;  >0 will keep moving; default is 0.2   */
+    this.minMove = 0.2; 
+
     this.container = container;
 
     options = options || {};
@@ -108,12 +111,25 @@ TagCloud.prototype.update = function () {
         b = this.lastb * 0.98;
     }
 
+
+    if (this.minMove <= 0)
+    {
+        if (Math.abs(a) <= 0.01 && Math.abs(b) <= 0.01) {
+            return;  //finally stop
+        }
+    }
+    else
+    {
+        if (Math.abs(a) <= this.minMove && Math.abs(b) <= this.minMove){
+            //keep moving with this speed
+            a = this.lasta;
+            b = this.lastb;
+        }
+    }
+
     this.lasta = a;
     this.lastb = b;
 
-    if (Math.abs(a) <= 0.01 && Math.abs(b) <= 0.01) {
-        return;
-    }
 
     var c = 0;
     this.sineCosine(a, b, c);
