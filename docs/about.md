@@ -15,7 +15,7 @@ o(∩_∩)o Hello. My name is Yangzhou Yu. You can call me by my nickname, Dorae
 I come from China, and I am a senior software engineer with {{ site.time | date: '%Y' | minus: 2005 }} years development experience and {{ site.time | date: '%Y' | minus: 2011 }} years work experience.  
 Furthermore, I am a MCSD (certified by Microsoft) and System-Architect (certified by government agency).  
 
-In my leisure time, I love to read books on science and art, sometimes play piano alone, and sometimes travel with my friends. BTW, my nickname as you see, I am a fan of Doraemon ~\\(≧▽≦)/~
+In my leisure time, I love to read books on science and art, sometimes play piano alone, and sometimes travel with my friends. BTW, my nickname as you see, I am a big fan of Doraemon ~\\(≧▽≦)/~
 </div>
 
 
