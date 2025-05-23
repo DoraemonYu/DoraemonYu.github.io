@@ -36,11 +36,13 @@ The studio was founded in 1999, when I was primary school students, the initial 
 *If you are interested to me, there are some websites I hope to share with you (however, most of them are in Simplified Chinese):* 
 
 
-* [Idea lab](https://idea-lab.yuyangzhou.name){:target="_blank"}
+* [Idea lab](http://idea-lab.yuyangzhou.name){:target="_blank"}
 * [Amateur pianist](https://piano.yuyangzhou.name){:target="_blank"}
-* [I'm a cook](https://food.yuyangzhou.name){:target="_blank"}
+* [Amateur cook](http://food.yuyangzhou.name){:target="_blank"}
+* [My paintings(Pixiv)](http://www.pixiv.net/users/98004332){:target="_blank"}
+* [HAM, BA7IVC](http://ham.yuyangzhou.name/){:target="_blank"}
 * [Free softwares, written from me](http://soft.yuyangzhou.name){:target="_blank"}
-* [Open letter list of the studio](http://soft.yuyangzhou.name/Email/OpenLetterList.html){:target="_blank"}
+* [Open letter list of the studio](http://letters.yuyangzhou.name){:target="_blank"}
 * [About me and the studio](http://me.yuyangzhou.name){:target="_blank"}
 * [More...](http://nav.yuyangzhou.name){:target="_blank"}
 </div>
