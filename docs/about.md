@@ -37,12 +37,11 @@ The studio was founded in 1999, when I was primary school students, the initial 
 
 
 * [Idea lab](http://idea-lab.yuyangzhou.name){:target="_blank"}
-* [Amateur pianist](https://piano.yuyangzhou.name){:target="_blank"}
+* [Amateur pianist](http://piano.yuyangzhou.name){:target="_blank"}
 * [Amateur cook](http://food.yuyangzhou.name){:target="_blank"}
-* [My paintings(Pixiv)](http://www.pixiv.net/users/98004332){:target="_blank"}
-* [HAM, BA7IVC](http://ham.yuyangzhou.name/){:target="_blank"}
+* [My paintings posted on Pixiv](http://www.pixiv.net/users/98004332){:target="_blank"}
+* [A HAM](http://ham.yuyangzhou.name/){:target="_blank"}
 * [Free softwares, written from me](http://soft.yuyangzhou.name){:target="_blank"}
-* [Open letter list of the studio](http://letters.yuyangzhou.name){:target="_blank"}
 * [About me and the studio](http://me.yuyangzhou.name){:target="_blank"}
 * [More...](http://nav.yuyangzhou.name){:target="_blank"}
 </div>
